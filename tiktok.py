@@ -20,7 +20,7 @@ time.sleep(3)
 print(f"Target is locked in  {tiktok_name} id!")
 time.sleep(2)
 print(f"First of all follow me in tiktok!")
-
+print("https://www.tiktok.com/@nirvanshah.m?lang=en")
 url = "https://www.tiktok.com/@nirvanshah.m?lang=en"
 webbrowser.open(url)
 
